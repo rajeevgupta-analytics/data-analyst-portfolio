@@ -12,7 +12,7 @@ Aspiring Data Analyst with a passion for transforming raw data into actionable i
 - **Tools Used:** Excel, SQL, Tableau
 - **Description:** Analyzed Netflix’s global content library to identify trends by country, type, and release year.
 - **Key Insights:** Content growth over years, most active production countries, genre distribution.
-- 🔗 [View Dashboard](#) *(link to Tableau Public)*
+- 🔗 [View Dashboard](#) 
 - 📂 [Project Files](./netflix-analysis)
 
 ---
@@ -21,7 +21,7 @@ Aspiring Data Analyst with a passion for transforming raw data into actionable i
 - **Tools Used:** Excel + Python (pandas, matplotlib)
 - **Description:** Cleaned and analyzed sales transaction data from a multi-category e-commerce store.
 - **Key Insights:** Monthly revenue trends, top-performing categories, repeat buyer behavior.
-- 🔗 [View Notebook](#) *(link to Colab or GitHub notebook)*
+- 🔗 [View Notebook](#) 
 - 📂 [Project Files](./ecommerce-sales)
 
 ---
