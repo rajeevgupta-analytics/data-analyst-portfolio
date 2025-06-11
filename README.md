@@ -48,7 +48,7 @@ Aspiring Data Analyst with a passion for transforming raw data into actionable i
 ## 📫 Connect With Me
 
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/rajeev-g-3b40721bb/)
-- 📧 Email: rajeevgupta@example.com *(replace with real if you'd like)*
+- 📧 Email: rajeevgupta@example.com
 
 ---
 
